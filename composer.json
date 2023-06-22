@@ -1,0 +1,22 @@
+{
+    "name": "slims/travel",
+    "description": "Opac SLiMS Template",
+    "type": "ui",
+    "require": {
+        "symfony/finder": "^6.3",
+        "league/color-extractor": "^0.4.0"
+    },
+    "license": "GPL-3.0",
+    "autoload": {
+        "psr-4": {
+            "Travel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Drajat Hasan",
+            "email": "drajathasan20@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
